@@ -33,7 +33,7 @@ On macOS and Linux:
 On Windows:
 ```bash
 venv\Scripts\activate
-
+```
 Install dependencies:
 
 ```bash
